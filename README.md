@@ -11,7 +11,7 @@ This has only been tested on most of the Cisco IR 829 platforms.  However, it ca
 ## Deploying the applications
 
 ### Download the app package.
-You can download the Cisco IOx app package from here <somelink>.
+You can download the Cisco IOx app package from here https://github.com/CiscoDevNet/gw_uplink_stats/releases/download/v0.8.7/package.tar.gz.
 
 ### Cisco Kinetic App Deploy
 Assuming you downloaded the application... 
