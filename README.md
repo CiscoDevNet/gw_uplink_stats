@@ -3,4 +3,4 @@ Cisco IoT Gateway Stats Microservice - This Golang app provides a HTTP GET API c
 
 ## Working Platforms
 
-This has only been tested on all Cisco IR 829 platforms.  However, it can potentially work with the IR 809 platform as well, but remains untested for now.
+This has only been tested on all Cisco IR 829 platforms.  However, it can potentially work with the IR 809 platform as well, but remains untested on IR 809 series gateways for now.
